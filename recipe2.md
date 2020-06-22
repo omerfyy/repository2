@@ -13,5 +13,6 @@
 * While the mushrooms are cooking, toast your buns and get your toppings ready.
 * Toss the cooked mushrooms in a bowl with the marinade, coating them well.
 * Serve 3 slices of mushroom per serving. Serve on your favourite lightly toasted bun, with some vegan mayo, pickles and we used some red sauerkraut but you could use coleslaw too. Enjoy!
+* Eet smakelijk!
 
 Einde oefening
