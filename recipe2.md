@@ -20,8 +20,17 @@ Einde oefening
 <<<<<<< HEAD
 ###h3 dit is een verandering
 
+<<<<<<< HEAD
 dit is nieuw
 =======
 
 * Merge conflict moet er nu komen.
 >>>>>>> a5c9f2bb511336b6899d6728984092bd8136679c
+=======
+
+
+
+
+
+* Merge conflict moet er nu komen.
+>>>>>>> c28001701cedbdc0cd64952126778af36c61a6ff
