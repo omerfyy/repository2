@@ -1,1 +1,5 @@
-
+- 3 King oyster mushroom stalks
+- 4 Buns of choice
+- Ruby sauerkraut or pickled onion
+- 3 tbsp vegan mayo
+- 2 large pickles
